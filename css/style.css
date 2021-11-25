@@ -3,3 +3,9 @@
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
 }
+
+.carousel-caption {
+    top: 422px;
+    right: -332px;
+    color: navajowhite;
+}
