@@ -10,3 +10,31 @@
     right: -332px;
     color: navajowhite;
 }
+
+.countryList li {
+    list-style: none;
+    font-weight: normal;
+}
+
+.borderLine {
+    border-top: 3px solid black;
+    position: relative;
+}
+
+.borderLine img {
+    width: 100%;
+}
+
+.borderLineNew {
+    border-top: 3px solid black;
+}
+
+.seethejournal a {
+    text-decoration: none;
+    background-color: rgb(39, 41, 73);
+    color: white;
+    padding: 8px 13px;
+    margin: 10px;
+    font-size: 23px;
+    letter-spacing: 5px;
+}
