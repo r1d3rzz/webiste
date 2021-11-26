@@ -38,3 +38,49 @@
     font-size: 23px;
     letter-spacing: 5px;
 }
+
+.footer {
+    background-color: #168DC3;
+    color: white;
+}
+
+.footer h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    letter-spacing: 3px;
+}
+
+.footerIcon {
+    font-size: 30px;
+    color: white;
+    padding: 5px 10px;
+}
+
+.footerIcon:hover {
+    color: rgb(15, 15, 211);
+}
+
+.serviceFeature li {
+    list-style: none;
+    line-height: 30px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.service {
+    display: block;
+}
+
+@media (max-width: 767.98px) {
+    .service {
+        display: none;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .service {
+        display: none;
+    }
+}
